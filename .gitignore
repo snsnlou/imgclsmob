@@ -129,4 +129,4 @@ venv.bak/
 .mypy_cache/
 
 # Virtual Envs
-venv*
+venv*root_key
